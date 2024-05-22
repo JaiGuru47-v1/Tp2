@@ -1,0 +1,152 @@
+[
+    {
+        "ville": "Paris",
+        "pays": " France",
+        "latitude": 48.8534951,
+        "longitude": 2.3483915
+    },
+    {
+        "ville": "Londres",
+        "pays": " Angleterre",
+        "latitude": 51.5073219,
+        "longitude": -0.1276474
+    },
+    {
+        "ville": "Hong Kong",
+        "pays": " Chine",
+        "latitude": 22.2793278,
+        "longitude": 114.1628131
+    },
+    {
+        "ville": "New York",
+        "pays": " \u00c9tats-Unis d'Am\u00e9rique",
+        "latitude": 40.7127281,
+        "longitude": -74.0060152
+    },
+    {
+        "ville": "Montr\u00e9al",
+        "pays": " Canada",
+        "latitude": 45.5031824,
+        "longitude": -73.5698065
+    },
+    {
+        "ville": "Berlin",
+        "pays": " Allemagne",
+        "latitude": 52.5170365,
+        "longitude": 13.3888599
+    },
+    {
+        "ville": "Singapour",
+        "pays": " Singapour",
+        "latitude": 1.357107,
+        "longitude": 103.8194992
+    },
+    {
+        "ville": "Tokyo",
+        "pays": " Japon",
+        "latitude": 35.6821936,
+        "longitude": 139.762221
+    },
+    {
+        "ville": "Johannesburg",
+        "pays": " Afrique du Sud",
+        "latitude": -26.205,
+        "longitude": 28.049722
+    },
+    {
+        "ville": "Mexico",
+        "pays": " Mexique",
+        "latitude": 19.4326296,
+        "longitude": -99.1331785
+    },
+    {
+        "ville": "P\u00e9kin",
+        "pays": " Chine",
+        "latitude": 40.190632,
+        "longitude": 116.412144
+    },
+    {
+        "ville": "Melbourne",
+        "pays": " Australie",
+        "latitude": -37.8142454,
+        "longitude": 144.9631732
+    },
+    {
+        "ville": "Rio de Janeiro",
+        "pays": " Br\u00e9sil",
+        "latitude": -22.9110137,
+        "longitude": -43.2093727
+    },
+    {
+        "ville": "Hawa\u00ef",
+        "pays": " \u00c9tats-Unis d'Am\u00e9rique",
+        "latitude": 19.5938015,
+        "longitude": -155.4283701
+    },
+    {
+        "ville": "Ath\u00e8nes",
+        "pays": " Gr\u00e8ce",
+        "latitude": 37.9755648,
+        "longitude": 23.7348324
+    },
+    {
+        "ville": "Mumbai",
+        "pays": " Inde",
+        "latitude": 18.9733536,
+        "longitude": 72.8281049
+    },
+    {
+        "ville": "Lagos",
+        "pays": " Nig\u00e9ria",
+        "latitude": 6.4550575,
+        "longitude": 3.3941795
+    },
+    {
+        "ville": "Buenos Aires",
+        "pays": " Argentine",
+        "latitude": -34.6037181,
+        "longitude": -58.38153
+    },
+    {
+        "ville": "Los Angeles",
+        "pays": " \u00c9tats-Unis d'Am\u00e9rique",
+        "latitude": 34.0536909,
+        "longitude": -118.242766
+    },
+    {
+        "ville": "Reykjavik",
+        "pays": " Islande",
+        "latitude": 64.145981,
+        "longitude": -21.9422367
+    },
+    {
+        "ville": "Santiago",
+        "pays": " Chili",
+        "latitude": -33.4377756,
+        "longitude": -70.6504502
+    },
+    {
+        "ville": "Vancouver",
+        "pays": " Canada",
+        "latitude": 49.2608724,
+        "longitude": -123.113952
+    },
+    {
+        "ville": "Manille",
+        "pays": " Philippines",
+        "latitude": 14.5906346,
+        "longitude": 120.9799964
+    },
+    {
+        "ville": "Oslo",
+        "pays": " Norv\u00e8ge",
+        "latitude": 59.9133301,
+        "longitude": 10.7389701
+    },
+    {
+        "ville": "S\u00e9oul",
+        "pays": " Cor\u00e9e du Sud",
+        "latitude": 37.5666791,
+        "longitude": 126.9782914
+    }
+]
